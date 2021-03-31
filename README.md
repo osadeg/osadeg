@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Welcome to my GitHub, feel free to look around as more changes are been made. 
 <!--
 **osadeg/osadeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
